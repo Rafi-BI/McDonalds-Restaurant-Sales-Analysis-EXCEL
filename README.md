@@ -5,6 +5,7 @@ Create an interactive and dynamic dashboard in Excel using the McDonald's sales
 dataset to analyze various aspects of sales performance, item popularity, customer
 preferences, and time-based trends. The dashboard should provide actionable insights
 and allow for easy data exploration.
+
 Features:
 1. Created a Pivot Table to summarize sales by category and month.
 2. Organized sales data into monthly breakdowns (January, February, March).
@@ -12,10 +13,12 @@ Features:
 4. Categories analyzed include Breakfast, Burger, Chicken, Fries, Pasta, and
 others.
 5. Dashboard planned for visual representation of sales insights.
+
 Tools Used:
 1. Microsoft Excel
 2. Pivot Tables
 3. Power Query Editor
+
 Insights Gained:
 1. Breakfast and Burgers are the biggest revenue drivers.
 2. Weekends and Evenings see the highest customer traffic and sales.
